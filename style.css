@@ -93,8 +93,8 @@ body{background-color: wheat;}
 } 
 body{
     position:absolute;
-    top:50px;
-    left:300px;
+    top:30px;
+    left:450px;
 }
 #left-ear, #right-ear{
     position:absolute;
