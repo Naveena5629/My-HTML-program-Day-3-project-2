@@ -12,7 +12,7 @@ body{background-color: wheat;}
     width: 200px;
     height:150px;
     top:214px;
-    left:523px;
+    left:55px;
 } 
 #left-eye, #right-eye{
     position:absolute;
@@ -91,6 +91,11 @@ body{background-color: wheat;}
     top:-60px;
     left:6px;
 } 
+body{
+    position:absolute;
+    top:50px;
+    left:300px;
+}
 #left-ear, #right-ear{
     position:absolute;
     border:5px solid black;
